@@ -1,4 +1,4 @@
-#CAFA benchmark
+# CAFA benchmark
 ## Sypnosis
 A quick program to create CAFA benchmark, need more exhaustive testing
 ## Installation
@@ -13,5 +13,5 @@ To create CAFA benchmark, choose the appropriate gfa files for t1, t2 time and a
 ```bash
 ./create_benchmark.py -t1 YEAST/gene_association.goa_ref_yeast.23 -t2 YEAST/gene_association.goa_ref_yeast.52 -o output
 ```
-The six file benchmark will be created in output directory with names indicate which knowledge (NK or LK), and ontology (bpo,cco,mfo). 
+The six files benchmark will be created in output directory with names indicate which knowledge (NK or LK), and ontology (bpo,cco,mfo). 
 
