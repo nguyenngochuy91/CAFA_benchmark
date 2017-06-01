@@ -1,0 +1,33 @@
+!gaf-version: 2.0
+!
+!The set of protein accessions included in this file is based on UniProt reference proteomes, which provide one protein per gene.
+!They include the protein sequences annotated in Swiss-Prot or the longest TrEMBL transcript if there is no Swiss-Prot record.
+!If a particular protein accession is not annotated with GO, then it will not appear in this file.
+!
+!Note that the annotation set in this file is filtered in order to reduce redundancy; the full, unfiltered set can be found in
+!ftp://ftp.ebi.ac.uk/pub/databases/GO/goa/UNIPROT/gene_association.goa_uniprot.gz
+!
+UniProtKB	A2P2R3	YMR084W		GO:0003674	GO_REF:0000015	IMP		F	Putative glutamine--fructose-6-phosphate aminotransferase [isomerizing]	YM084_YEAST|YMR084W	protein	taxon:559292	20030203	SGD		
+UniProtKB	A2P2R3	YMR084W		GO:0004360	GO_REF:0000003	IGI	EC:2.6.1.16	P	Putative glutamine--fructose-6-phosphate aminotransferase [isomerizing]	YM084_YEAST|YMR084W	protein	taxon:559292	20130525	UniProtKB		
+UniProtKB	A2P2R3	YMR084W		GO:0005575	GO_REF:0000015	IEP		C	Putative glutamine--fructose-6-phosphate aminotransferase [isomerizing]	YM084_YEAST|YMR084W	protein	taxon:559292	20030203	SGD
+UniProtKB	A2P2R5	YMR084W		GO:0003674	GO_REF:0000015	EXP		F	Putative glutamine--fructose-6-phosphate aminotransferase [isomerizing]	YM084_YEAST|YMR084W	protein	taxon:559292	20030203	SGD		
+UniProtKB	A2P2R5	YMR084W		GO:0004360	GO_REF:0000003	IDA	EC:2.6.1.16	P	Putative glutamine--fructose-6-phosphate aminotransferase [isomerizing]	YM084_YEAST|YMR084W	protein	taxon:559292	20130525	UniProtKB		
+UniProtKB	A2P2R5	YMR084W		GO:0005575	GO_REF:0000015	IPI		C	Putative glutamine--fructose-6-phosphate aminotransferase [isomerizing]	YM084_YEAST|YMR084W	protein	taxon:559292	20030203	SGD	
+UniProtKB	A2P2R6	YMR084W		GO:0003674	GO_REF:0000015	EXP		F	Putative glutamine--fructose-6-phosphate aminotransferase [isomerizing]	YM084_YEAST|YMR084W	protein	taxon:559292	20030203	SGD		
+UniProtKB	A2P2R6	YMR084W		GO:0004360	GO_REF:0000003	IDA	EC:2.6.1.16	P	Putative glutamine--fructose-6-phosphate aminotransferase [isomerizing]	YM084_YEAST|YMR084W	protein	taxon:559292	20130525	UniProtKB		
+UniProtKB	A2P2R6	YMR084W		GO:0005575	GO_REF:0000015	IPI		C	Putative glutamine--fructose-6-phosphate aminotransferase [isomerizing]	YM084_YEAST|YMR084W	protein	taxon:559292	20030203	SGD	
+UniProtKB	A5Z2X5	YPR010C-A		GO:0003674	GO_REF:0000015	IEP		F	UPF0495 protein YPR010C-A	YP010_YEAST|YPR010C-A	protein	taxon:559292	20070510	SGD		
+UniProtKB	A5Z2X5	YPR010C-A		GO:0005575	GO_REF:0000015	IEP		C	UPF0495 protein YPR010C-A	YP010_YEAST|YPR010C-A	protein	taxon:559292	20070510	SGD		
+UniProtKB	A5Z2X5	YPR010C-A		GO:0008150	GO_REF:0000015	IEP		P	UPF0495 protein YPR010C-A	YP010_YEAST|YPR010C-A	protein	taxon:559292	20070510	SGD		
+UniProtKB	A5Z2X5	YPR010C-A		GO:0016021	GO_REF:0000037	IEA	UniProtKB-KW:KW-0812	C	UPF0495 protein YPR010C-A	YP010_YEAST|YPR010C-A	protein	taxon:559292	20130525	UniProtKB	
+UniProtKB	I2HB52	YBR056W-A		GO:0003674	GO_REF:0000015	EXP		F	Uncharacterized protein YBR056W-A	YB56A_YEAST|YBR056W-A	protein	taxon:559292	20030730	SGD		
+UniProtKB	I2HB52	YBR056W-A		GO:0005575	GO_REF:0000015	IDA		C	Uncharacterized protein YBR056W-A	YB56A_YEAST|YBR056W-A	protein	taxon:559292	20030730	SGD		
+UniProtKB	I2HB52	YBR056W-A		GO:0008150	GO_REF:0000015	ND		P	Uncharacterized protein YBR056W-A	YB56A_YEAST|YBR056W-A	protein	taxon:559292	20030730	SGD		
+UniProtKB	I2HB70	YMR316C-A		GO:0003674	GO_REF:0000015	ND		F	Uncharacterized protein YMR316C-A	YM16A_YEAST|YMR316C-A	protein	taxon:559292	20021126	SGD		
+UniProtKB	I2HB70	YMR316C-A		GO:0005575	GO_REF:0000015	ND		C	Uncharacterized protein YMR316C-A	YM16A_YEAST|YMR316C-A	protein	taxon:559292	20021126	SGD		
+UniProtKB	I2HB70	YMR316C-A		GO:0008150	GO_REF:0000015	IEP		P	Uncharacterized protein YMR316C-A	YM16A_YEAST|YMR316C-A	protein	taxon:559292	20021126	SGD
+UniProtKB	O13563	RPN13		GO:0006511	PMID:11029046	IGI		P	26S proteasome regulatory subunit RPN13	RPN13_YEAST|RPN13|DAQ1|YLR421C	protein	taxon:559292	20080923	SGD		
+UniProtKB	O13563	RPN13		GO:0006511	PMID:17499717	IGI		P	26S proteasome regulatory subunit RPN13	RPN13_YEAST|RPN13|DAQ1|YLR421C	protein	taxon:559292	20080923	SGD	
+UniProtKB	O14464	RTC6		GO:0003735	PMID:12392552	IPI	protein_id:ACB04361.1	F	54S ribosomal protein RTC6, mitochondrial	RTC6_YEAST|RTC6|TAE4|YPL183W-A|YPL183BW	protein	taxon:559292	20081111	SGD		
+UniProtKB	O14464	RTC6		GO:0005762	PMID:12392552	IGI	protein_id:ACB04361.1	C	54S ribosomal protein RTC6, mitochondrial	RTC6_YEAST|RTC6|TAE4|YPL183W-A|YPL183BW	protein	taxon:559292	20081111	SGD	
+UniProtKB	O14464	RTC6		GO:0005762	PMID:12392552	IGI	protein_id:ACB04361.1	P	54S ribosomal protein RTC6, mitochondrial	RTC6_YEAST|RTC6|TAE4|YPL183W-A|YPL183BW	protein	taxon:559292	20081111	SGD	
